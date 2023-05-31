@@ -7,7 +7,7 @@ function checkFomat($number){
     }else{
         echo ("Số lẻ");
     }
-}s
+}
         checkFomat(5);
 echo "<br>" ;
 //Bài 2: Viết chương trình PHP, sử dụng câu lệnh if else để xếp hạng học lực của học sinh dựa trên điểm điểm thi giữa kỳ, điểm thi cuối kỳ.
